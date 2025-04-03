@@ -9,7 +9,9 @@
 
 📜 Our name, `ftsrg`, comes from the original name of the research group: _Fault Tolerant Systems Research Group_
 
-🎯 Our other organizations:
+🎯 Other organizations for the research group:
 - [ftsrg-edu](https://github.com/ftsrg-edu): educational and course materials
-- [ftsrg-softeng](https://github.com/ftsrg-softeng): Software Engineering (VIMIAB04) course
 - [ftsrg-cs](https://github.com/ftsrg-cs): Critical Systems Laboratory (VIMIMB11) course
+- [ftsrg-rete](https://github.com/ftsrg-rete): Systems Modeling (VIMIAD03) course
+- [ftsrg-softeng](https://github.com/ftsrg-softeng): Software Engineering (VIMIAB04) course
+- [Refinery](https://github.com/graphs4value): Refinery tool for reasoning about graphs with partial modeling
