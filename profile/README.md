@@ -11,6 +11,7 @@
 
 🎯 Other organizations for the research group:
 - [ftsrg-edu](https://github.com/ftsrg-edu): educational and course materials
+- [ftsrg-bta](https://github.com/ftsrg-bta): Blockchain Technologies and Applications (VIMIAV17) course
 - [ftsrg-cs](https://github.com/ftsrg-cs): Critical Systems Laboratory (VIMIMB11) course
 - [ftsrg-rete](https://github.com/ftsrg-rete): Systems Modeling (VIMIAD03) course
 - [ftsrg-softeng](https://github.com/ftsrg-softeng): Software Engineering (VIMIAB04) course
