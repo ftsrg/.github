@@ -1,6 +1,6 @@
 ## Welcome at ftsrg
 
-> Developing new methods and tools to help engineers create more reliable systems
+> Developing new methods and tools to help engineers create more reliable software systems
 
 🚀 This organization hosts software and tutorials developed by the 
  - [Critical Systems Research Group](https://ftsrg.mit.bme.hu/) (ftsrg) at
